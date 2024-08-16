@@ -2,6 +2,8 @@
 name = "port-desc"
 version = "0.1.0"
 edition = "2021"
+description = "Port service description library from internet assigned number authority"
+license = "MIT"
 
 [dependencies]
 csv = "1.3.0"
